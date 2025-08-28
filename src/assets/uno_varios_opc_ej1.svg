@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="108.397mm"
+   height="253.49551mm"
+   viewBox="0 0 409.68947 958.09329"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="uno_uno_ej1.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="uno_varios_ej1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm">
+    <inkscape:page
+       x="0"
+       y="2.6886312e-25"
+       width="409.68948"
+       height="958.09332"
+       id="page1"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3-9"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3-2-3"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-180.34941,-78.615448)">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:5;stroke-linejoin:round"
+       id="rect1"
+       width="403.38492"
+       height="199.50015"
+       x="184.15399"
+       y="81.115448"
+       ry="5.7944903" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:5;stroke-linejoin:round"
+       id="rect1-3"
+       width="403.38492"
+       height="199.50015"
+       x="182.84941"
+       y="834.70868"
+       ry="5.7944903" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:5;stroke-linejoin:round"
+       d="m 373.59745,280.58564 v 545.6693"
+       id="path1"
+       inkscape:path-effect="#path-effect1"
+       inkscape:original-d="m 373.59745,280.58564 c 0,182.92323 0,364.29627 0,545.6693"
+       transform="matrix(1,0,0,1.0142045,10.851378,-3.9855915)" />
+    <text
+       xml:space="preserve"
+       style="font-size:42.6667px;line-height:0.7;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:rtl;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:5;stroke-linejoin:round"
+       x="382.89862"
+       y="201.52559"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="382.89862"
+         y="201.52559">Facturas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:42.6667px;line-height:0.7;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:rtl;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:5;stroke-linejoin:round"
+       x="378.24802"
+       y="951.82086"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="378.24802"
+         y="951.82086">Cliente</tspan></text>
+    <g
+       id="g3">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linejoin:round"
+         d="m 357.34645,291.44014 26.85579,32.61061 25.87267,-32.78267"
+         id="path15"
+         inkscape:path-effect="#path-effect15"
+         inkscape:original-d="m 357.34645,291.44014 26.85579,32.61061 25.87267,-32.78267"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:5;stroke-linejoin:round"
+         id="path2"
+         sodipodi:type="arc"
+         sodipodi:cx="384.19391"
+         sodipodi:cy="343.27325"
+         sodipodi:rx="16.603626"
+         sodipodi:ry="16.603626"
+         sodipodi:start="0.099467452"
+         sodipodi:end="0.091135356"
+         sodipodi:open="true"
+         sodipodi:arc-type="arc"
+         d="m 400.71547,344.92205 a 16.603626,16.603626 0 0 1 -18.13594,14.87616 16.603626,16.603626 0 0 1 -14.9139,-18.10491 16.603626,16.603626 0 0 1 18.0738,-14.95158 16.603626,16.603626 0 0 1 14.9892,18.04262" />
+    </g>
+    <g
+       id="g3-6"
+       transform="translate(0.62744631,483.49557)">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:5;stroke-linejoin:round"
+         d="m 361.19588,311.58958 h 55.80708"
+         id="path3-26"
+         inkscape:path-effect="#path-effect3-9"
+         inkscape:original-d="m 361.19588,311.58958 c 17.56889,0 36.68799,0 55.80708,0"
+         transform="translate(-5.4256891)" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:5;stroke-linejoin:round"
+         d="m 361.19588,311.58958 h 55.80708"
+         id="path3-2-1"
+         inkscape:path-effect="#path-effect3-2-3"
+         inkscape:original-d="m 361.19588,311.58958 c 17.56889,0 36.68799,0 55.80708,0"
+         transform="translate(-5.1476521,16.412386)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:42.6667px;line-height:0.7;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:rtl;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:5;stroke-linejoin:round"
+       x="305.38879"
+       y="540.24359"
+       id="text4"><tspan
+         sodipodi:role="line"
+         x="305.38879"
+         y="540.24359"
+         id="tspan5">Se</tspan><tspan
+         sodipodi:role="line"
+         x="305.38879"
+         y="570.11029"
+         id="tspan10">asigna</tspan><tspan
+         sodipodi:role="line"
+         x="305.38879"
+         y="599.97699"
+         id="tspan12">a un</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:42.6667px;line-height:0.7;font-family:FreeMono;-inkscape-font-specification:FreeMono;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:rtl;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:5;stroke-linejoin:round"
+       x="475.51151"
+       y="560.06177"
+       id="text6"><tspan
+         sodipodi:role="line"
+         x="475.51151"
+         y="560.06177"
+         id="tspan15">Tiene</tspan><tspan
+         sodipodi:role="line"
+         x="475.51151"
+         y="589.92847"
+         id="tspan4">uno o</tspan><tspan
+         sodipodi:role="line"
+         x="475.51151"
+         y="619.79517"
+         id="tspan6">ninguna</tspan></text>
+  </g>
+</svg>
